@@ -2,7 +2,7 @@
 ![Imagen del proyecto](https://miguelpg.com/images/crea-tu-historia.png?raw=true)
 
 
-## Ejemplo en vivo
+## Live example
 - https://mig-code.github.io/create-your-own-story/
 
 ## Description 📑
