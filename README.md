@@ -11,7 +11,7 @@ My partner works in a school for children with disabilities and they need to com
 
 As soon as I learned to use APIS I created this website for developing the imagination.
 
-## ¿What did I leartn? 🙇🏻 
+## ¿What did I leart? 🙇🏻 
 -To deploy using Vite
 
 -To work with APIs and display data in the DOM
