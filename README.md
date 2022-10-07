@@ -32,7 +32,7 @@ As soon as I learned to use APIS I created this website for developing the imagi
 Miguel P.gomez
 
 * [hola@miguelpg.com](hola@miguelpg.com)
-
+* [LinkedIn](https://www.linkedin.com/in/mig-code//)
 * [Porfolio web](https://miguelpg.com/)
 
 ## Instalation
